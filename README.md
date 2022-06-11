@@ -57,7 +57,32 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
+DATA.HEAD()
+
+
+
+![1](https://user-images.githubusercontent.com/94588708/173183785-7e200c94-32d6-4a42-9c37-daf220668096.png)
+
+
+
+DATA.INFO()
+
+
+
+
+![2](https://user-images.githubusercontent.com/94588708/173183801-c8d17c9f-c9e2-480d-934e-e351b34fe9cb.png)
+
+![3](https://user-images.githubusercontent.com/94588708/173183814-3f79336b-9c41-44b5-a962-9697a674d5c2.png)
+
+![4](https://user-images.githubusercontent.com/94588708/173183824-419e2ae8-6013-4dc9-99fd-79d95ff1699e.png)
+
+
+
+
+
+
+
+
 
 
 ## Result:
